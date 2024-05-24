@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jatin Shriyan\\Desktop\\Nilesh\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9333900-5B39-4801-B379-9E17DC9FFF7C}|WebApplication1\\WebApplication1.csproj|c:\\users\\jatin shriyan\\desktop\\nilesh\\webapplication1\\webapplication1\\models\\nilesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9333900-5B39-4801-B379-9E17DC9FFF7C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\nilesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9333900-5B39-4801-B379-9E17DC9FFF7C}|WebApplication1\\WebApplication1.csproj|c:\\users\\jatin shriyan\\desktop\\nilesh\\webapplication1\\webapplication1\\areas\\helppage\\controllers\\helpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9333900-5B39-4801-B379-9E17DC9FFF7C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\helppage\\controllers\\helpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9333900-5B39-4801-B379-9E17DC9FFF7C}|WebApplication1\\WebApplication1.csproj|c:\\users\\jatin shriyan\\desktop\\nilesh\\webapplication1\\webapplication1\\controllers\\nileshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9333900-5B39-4801-B379-9E17DC9FFF7C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\nileshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9333900-5B39-4801-B379-9E17DC9FFF7C}|WebApplication1\\WebApplication1.csproj|c:\\users\\jatin shriyan\\desktop\\nilesh\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9333900-5B39-4801-B379-9E17DC9FFF7C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelpController.cs",
+              "DocumentMoniker": "C:\\Users\\Jatin Shriyan\\Desktop\\Nilesh\\WebApplication1\\WebApplication1\\Areas\\HelpPage\\Controllers\\HelpController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\HelpPage\\Controllers\\HelpController.cs",
+              "ToolTip": "C:\\Users\\Jatin Shriyan\\Desktop\\Nilesh\\WebApplication1\\WebApplication1\\Areas\\HelpPage\\Controllers\\HelpController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\HelpPage\\Controllers\\HelpController.cs",
+              "ViewState": "AQIAABcAAADAMzMzMzMmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:12:16.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nilesh.cs",
+              "DocumentMoniker": "C:\\Users\\Jatin Shriyan\\Desktop\\Nilesh\\WebApplication1\\WebApplication1\\Models\\Nilesh.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Nilesh.cs",
+              "ToolTip": "C:\\Users\\Jatin Shriyan\\Desktop\\Nilesh\\WebApplication1\\WebApplication1\\Models\\Nilesh.cs*",
+              "RelativeToolTip": "WebApplication1\\Models\\Nilesh.cs*",
+              "ViewState": "AQIAAAgAAAAAMzMzMzMVwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:01:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NileshController.cs",
+              "DocumentMoniker": "C:\\Users\\Jatin Shriyan\\Desktop\\Nilesh\\WebApplication1\\WebApplication1\\Controllers\\NileshController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\NileshController.cs",
+              "ToolTip": "C:\\Users\\Jatin Shriyan\\Desktop\\Nilesh\\WebApplication1\\WebApplication1\\Controllers\\NileshController.cs*",
+              "RelativeToolTip": "WebApplication1\\Controllers\\NileshController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:01:14.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jatin Shriyan\\Desktop\\Nilesh\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jatin Shriyan\\Desktop\\Nilesh\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:58:56.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
